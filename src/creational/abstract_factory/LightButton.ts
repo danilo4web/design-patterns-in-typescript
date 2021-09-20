@@ -1,6 +1,6 @@
 import Button from "./Button";
 
-export default class DarkButton implements Button {
+export default class LightButton implements Button {
     color: string;
     backgroundColor: string;
 
