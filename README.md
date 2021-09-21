@@ -4,5 +4,8 @@
 > ##### Behavioral
 > * Strategy
 
+> ##### Creational
+> * Abstract Factory
+
 > ##### Structural:
 > * Adapter
