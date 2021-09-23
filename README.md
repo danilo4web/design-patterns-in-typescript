@@ -6,6 +6,7 @@
 
 > ##### Creational
 > * Abstract Factory
+> * Singleton
 
 > ##### Structural:
 > * Adapter
