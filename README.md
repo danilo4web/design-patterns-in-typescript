@@ -10,3 +10,9 @@
 
 > ##### Structural:
 > * Adapter
+
+
+### Test suite:
+```
+npm run test
+```
