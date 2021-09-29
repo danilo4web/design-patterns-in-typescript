@@ -10,6 +10,7 @@
 
 > ##### Structural:
 > * Adapter
+> * Facade
 
 
 ### Test suite:
